@@ -92,6 +92,7 @@
 
 ## 🎒 Образование
 [<img src="/006f231bbc5.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Artem-Gorshkov-qa/Artem-Gorshkov-qa/7cbe075029cfccf6aade1853a3cc73d743f1989a/006f231bbc5.png)
+[<img src="/00d6c306e2a.png" width="280px" hspace="10px" alt="Диплом ENG»">](https://raw.githubusercontent.com/Artem-Gorshkov-qa/Artem-Gorshkov-qa/refs/heads/main/00d6c306e2a.png)
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
 
 <br>
